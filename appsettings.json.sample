@@ -1,0 +1,8 @@
+﻿{
+  "clientId": "00000000-0000-0000-0000-000000000000",
+  "tenant": "tenant.onmicrosoft.com",
+  "appKey": "someAppSecretKey",
+  "aadInstance": "https://login.microsoftonline.com/{0}",
+  "userMailbox": "max.power@company.com"
+
+}
